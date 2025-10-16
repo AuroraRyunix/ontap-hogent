@@ -39,6 +39,9 @@
 7. Set the size of the Memory to **16** **GB** (needed by this version ONTAPsimulator for one node cluster):
 
 
+## One last hint before i'm back to gaming and sipping coffee
+1. the command "cluster setup" allows you to configure everything cli you'll ever need. enjoy. -sip sip
+
 
 ## Very Important Notes
 1. Proxmox backup of the ONTAPsimulator (done on a working VM) (same goes for snapshots, or whatever they call them in da prox, i do not use it) does not protect the simulator. After the restoration from the backup, the internal database is corrupted and the simulator is not usable.
