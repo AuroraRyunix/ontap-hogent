@@ -1,13 +1,20 @@
-## Latest version of all files are available from:
-
-
 
 ## Prerequisites:
 1. ONTAPsimulator version: 9.16.1
 2. Proxmox version: Virtual Environment 9.0.0 (should work fine for any newer releases)
+3. DHCP is a nice to have, however not mandatory
+4. COFFEE, LOTS OF IT!
+5. patience
+6. goat.png for when all goes wrong
+7. Whatever, yes.
+
+## Info:
+- Modified version of ontap. Minor changes for proxmox, comes preloaded with working virtual disks of 9gb, i think 14, however don't shoot the piano player, he's doing his best.
+- Kernel-Panic-Proof, kidding.
+
 
 ## Instruction:
-1. Download the ONTAPsimulator .ova file: https://fastapi.zerotwo.cloud/ontap and a .txt file with license keys. (note: this is a modified premade version, with 0 warranty, includes a goat).
+1. Download the ONTAPsimulator .ova file: from github releases, or: https://fastapi.zerotwo.cloud/ontap and a .txt file with license keys. (note: this is a modified premade version, with 0 warranty, includes a goat).
 2. Unzip the .ova file
 3. Upload to the working directory on the Proxmox server all .vmdk files (hint: scp is da wae): 
 
