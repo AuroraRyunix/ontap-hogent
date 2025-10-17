@@ -38,7 +38,7 @@
 ![image](https://user-images.githubusercontent.com/115875629/208504451-8a6c0601-beca-45c9-ae2f-72b0576fab0d.png)
 
 7. Set the size of the Memory to **16** **GB** (needed by this version ONTAPsimulator for one node cluster):
-THE IMAGE ONLY SHOWS 6GB RAM CORES, DO 12 OR 16GB RAM
+THE IMAGE ONLY SHOWS 6GB RAM, DO 12 OR 16GB RAM
 
 ## One last hint before i'm back to gaming and sipping coffee
 1. the command "cluster setup" allows you to configure everything cli you'll ever need. enjoy. -sip sip
