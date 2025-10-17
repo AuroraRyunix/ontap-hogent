@@ -57,7 +57,7 @@ The backup of the VM should be done when it is switched off.
 
 2. A single node ONTAP cluster can be switched off from CLI (I did not test it with two node cluster):
 ```
-system node halt
+system node shutdown
 ```
 
 ![image](https://user-images.githubusercontent.com/115875629/208902035-bca9578f-fa35-4a7f-b620-83be2c7af14e.png)
